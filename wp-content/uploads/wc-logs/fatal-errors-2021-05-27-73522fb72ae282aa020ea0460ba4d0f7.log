@@ -1,0 +1,60 @@
+2021-05-27T09:45:16+00:00 CRITICAL Uncaught WorldpayException: Please enter your service key in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php:593
+Stack trace:
+#0 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php(66): Worldpay::onError('key')
+#1 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(412): Worldpay->__construct('')
+#2 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(147): WC_WorldPay_JuseCo->get_worldpay_client()
+#3 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(125): WC_WorldPay_JuseCo->get_stored_card_details()
+#4 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(30): WC_WorldPay_JuseCo->payment_fields()
+#5 /var/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/wp-con...')
+#6 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): w in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php on line 593
+
+2021-05-27T09:45:18+00:00 CRITICAL Uncaught WorldpayException: Please enter your service key in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php:593
+Stack trace:
+#0 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php(66): Worldpay::onError('key')
+#1 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(412): Worldpay->__construct('')
+#2 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(147): WC_WorldPay_JuseCo->get_worldpay_client()
+#3 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(125): WC_WorldPay_JuseCo->get_stored_card_details()
+#4 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(30): WC_WorldPay_JuseCo->payment_fields()
+#5 /var/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/wp-con...')
+#6 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): w in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php on line 593
+
+2021-05-27T09:45:29+00:00 CRITICAL Uncaught WorldpayException: Please enter your service key in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php:593
+Stack trace:
+#0 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php(66): Worldpay::onError('key')
+#1 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(412): Worldpay->__construct('')
+#2 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(147): WC_WorldPay_JuseCo->get_worldpay_client()
+#3 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(125): WC_WorldPay_JuseCo->get_stored_card_details()
+#4 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(30): WC_WorldPay_JuseCo->payment_fields()
+#5 /var/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/wp-con...')
+#6 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): w in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php on line 593
+
+2021-05-27T09:45:30+00:00 CRITICAL Uncaught WorldpayException: Please enter your service key in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php:593
+Stack trace:
+#0 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php(66): Worldpay::onError('key')
+#1 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(412): Worldpay->__construct('')
+#2 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(147): WC_WorldPay_JuseCo->get_worldpay_client()
+#3 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(125): WC_WorldPay_JuseCo->get_stored_card_details()
+#4 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(30): WC_WorldPay_JuseCo->payment_fields()
+#5 /var/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/wp-con...')
+#6 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): w in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php on line 593
+
+2021-05-27T09:45:48+00:00 CRITICAL Uncaught WorldpayException: Please enter your service key in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php:593
+Stack trace:
+#0 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php(66): Worldpay::onError('key')
+#1 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(412): Worldpay->__construct('')
+#2 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(147): WC_WorldPay_JuseCo->get_worldpay_client()
+#3 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(125): WC_WorldPay_JuseCo->get_stored_card_details()
+#4 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(30): WC_WorldPay_JuseCo->payment_fields()
+#5 /var/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/wp-con...')
+#6 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): w in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php on line 593
+
+2021-05-27T09:45:50+00:00 CRITICAL Uncaught WorldpayException: Please enter your service key in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php:593
+Stack trace:
+#0 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php(66): Worldpay::onError('key')
+#1 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(412): Worldpay->__construct('')
+#2 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(147): WC_WorldPay_JuseCo->get_worldpay_client()
+#3 /var/www/wp-content/plugins/juseco-worldpay-woocommerce/woocommerce-gateway-worldpay.php(125): WC_WorldPay_JuseCo->get_stored_card_details()
+#4 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(30): WC_WorldPay_JuseCo->payment_fields()
+#5 /var/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/wp-con...')
+#6 /var/www/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): w in /var/www/wp-content/plugins/juseco-worldpay-woocommerce/inc/worldpay-lib-php-1.8.0/worldpay.php on line 593
+

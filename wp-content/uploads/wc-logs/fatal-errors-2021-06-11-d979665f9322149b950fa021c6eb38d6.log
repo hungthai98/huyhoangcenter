@@ -1,0 +1,7 @@
+2021-06-11T07:16:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function do_meta_boxes(), 2 passed in C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\dashboard.php on line 256 and exactly 3 expected in C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\template.php:1247
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\dashboard.php(256): do_meta_boxes('dashboard', '')
+#1 C:\xampp\htdocs\huyhoangcenter\wp-admin\index.php(126): wp_dashboard()
+#2 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\template.php on line 1247
+

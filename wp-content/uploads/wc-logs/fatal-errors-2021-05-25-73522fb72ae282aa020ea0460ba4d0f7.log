@@ -1,0 +1,8 @@
+2021-05-25T09:38:34+00:00 CRITICAL require_once(): Failed opening required '/var/www/wp-content/plugins/woocommerce-shipment-tracking/includes/api/class-wc-shipment-tracking-rest-api-controller.php' (include_path='.:/opt/remi/php73/root/usr/share/pear:/opt/remi/php73/root/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/wp-content/plugins/woocommerce-shipment-tracking/woocommerce-shipment-tracking.php on line 177
+
+2021-05-25T09:38:34+00:00 CRITICAL require_once(): Failed opening required '/var/www/wp-content/plugins/woocommerce-shipment-tracking/includes/api/class-wc-shipment-tracking-rest-api-controller.php' (include_path='.:/opt/remi/php73/root/usr/share/pear:/opt/remi/php73/root/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/wp-content/plugins/woocommerce-shipment-tracking/woocommerce-shipment-tracking.php on line 177
+
+2021-05-25T09:38:34+00:00 CRITICAL require_once(): Failed opening required '/var/www/wp-content/plugins/woocommerce-shipment-tracking/includes/api/class-wc-shipment-tracking-rest-api-controller.php' (include_path='.:/opt/remi/php73/root/usr/share/pear:/opt/remi/php73/root/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/wp-content/plugins/woocommerce-shipment-tracking/woocommerce-shipment-tracking.php on line 177
+
+2021-05-25T09:38:34+00:00 CRITICAL require_once(): Failed opening required '/var/www/wp-content/plugins/woocommerce-shipment-tracking/includes/api/class-wc-shipment-tracking-rest-api-controller.php' (include_path='.:/opt/remi/php73/root/usr/share/pear:/opt/remi/php73/root/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/wp-content/plugins/woocommerce-shipment-tracking/woocommerce-shipment-tracking.php on line 177
+

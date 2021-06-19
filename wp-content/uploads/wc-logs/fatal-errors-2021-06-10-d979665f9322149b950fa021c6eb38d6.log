@@ -1,0 +1,84 @@
+2021-06-10T03:53:00+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\classic-editor\classic-editor.php:356
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): Classic_Editor::register_settings('')
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\classic-editor\classic-editor.php on line 356
+
+2021-06-10T04:06:17+00:00 CRITICAL Uncaught Error: Call to a member function add_help_tab() on null in C:\xampp\htdocs\huyhoangcenter\wp-admin\index.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-admin\index.php on line 39
+
+2021-06-10T04:06:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\woocommerce\includes\admin\class-wc-admin.php:88
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): WC_Admin->conditional_includes(Object(WP_Screen))
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\class-wp-screen.php(421): do_action('current_screen', Object(WP_Screen))
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\screen.php(231): WP_Screen->set_current_screen()
+#5 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(212): set_current_screen()
+#6 C:\xampp\htdocs\huyhoangcenter\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\woocommerce\includes\admin\class-wc-admin.php on line 88
+
+2021-06-10T04:06:37+00:00 CRITICAL Uncaught Error: Call to undefined function set_current_screen() in C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php:212
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-admin\index.php(10): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php on line 212
+
+2021-06-10T04:08:13+00:00 CRITICAL Uncaught Error: Call to undefined function meta_box_prefs() in C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\class-wp-screen.php:1123
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\class-wp-screen.php(1076): WP_Screen->render_meta_boxes_preferences()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\class-wp-screen.php(957): WP_Screen->render_screen_options()
+#2 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin-header.php(266): WP_Screen->render_screen_meta()
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\index.php(115): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\class-wp-screen.php on line 1123
+
+2021-06-10T06:26:29+00:00 CRITICAL Uncaught Error: Call to undefined function is_admin_bar_showing() in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\init.php:39
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php(8): require()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\huyhoangcenter\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\init.php on line 39
+
+2021-06-10T06:26:30+00:00 CRITICAL Uncaught Error: Call to undefined function is_admin_bar_showing() in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\init.php:39
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php(8): require()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\huyhoangcenter\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\init.php on line 39
+
+2021-06-10T06:27:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "wp_admin_bar_wp_menu" not found or invalid function name in C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php:292
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\admin-bar.php(95): do_action_ref_array('admin_bar_menu', Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): wp_admin_bar_render('')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\huyhoangcenter\wp-includes\general-template.php(3041): do_action('wp_body_open')
+#7 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\header.php(16): wp_body_open()
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#11 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#12 C:\xampp\htdocs\huyhoangcenter\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\huyhoangcenter\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\huyhoangcenter\index.php(17): require('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php on line 292
+

@@ -1,0 +1,246 @@
+2021-06-09T02:14:19+00:00 CRITICAL Uncaught Error: Undefined constant "‘login_url’" in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php:15
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\theme-editor.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php on line 15
+
+2021-06-09T02:14:45+00:00 CRITICAL Uncaught Error: Undefined constant "‘login_url’" in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php:15
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\theme-editor.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php on line 15
+
+2021-06-09T02:17:15+00:00 CRITICAL Unclosed '(' on line 19 does not match '}' in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php on line 21
+
+2021-06-09T02:17:42+00:00 CRITICAL Uncaught Error: Undefined constant "‘login_headerurl’" in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php:15
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\theme-editor.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php on line 15
+
+2021-06-09T02:20:01+00:00 CRITICAL Uncaught Error: Undefined constant "‘login_headerurl’" in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php:14
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\theme-editor.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php on line 14
+
+2021-06-09T02:21:32+00:00 CRITICAL Uncaught Error: Undefined constant "‘login_headerurl’" in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php:14
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\theme-editor.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php on line 14
+
+2021-06-09T02:21:53+00:00 CRITICAL Uncaught Error: Undefined constant "‘login_headerurl’" in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php:16
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-admin\theme-editor.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\functions.php on line 16
+
+2021-06-09T06:19:46+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-includes\update.php(293): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-admin\includes\class-wp-automatic-updater.php(502): wp_update_plugins(Array)
+#6 C:\xampp\htdocs\huyhoangcenter\wp-includes\update.php(650): WP_Automatic_Updater->run()
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): wp_maybe_auto_update('')
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-includes\update.php(256): do_action('wp_maybe_auto_u...')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): wp_version_check()
+#12 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\huyhoangcenter\wp-cron.php(138): do_action_ref_array('wp_version_chec...', Array)
+#15 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:20:47+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#6 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(417): TGM_Plugin_Activation->is_tgmpa_complete()
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): TGM_Plugin_Activation->init('')
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(560): do_action('init')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:21:54+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-includes\update.php(293): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): wp_update_plugins()
+#6 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\huyhoangcenter\wp-cron.php(138): do_action_ref_array('wp_update_plugi...', Array)
+#9 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:22:45+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#6 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(417): TGM_Plugin_Activation->is_tgmpa_complete()
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): TGM_Plugin_Activation->init('')
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(560): do_action('init')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:24:46+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#6 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(417): TGM_Plugin_Activation->is_tgmpa_complete()
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): TGM_Plugin_Activation->init('')
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(560): do_action('init')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:26:47+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#6 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(417): TGM_Plugin_Activation->is_tgmpa_complete()
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): TGM_Plugin_Activation->init('')
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(560): do_action('init')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:28:48+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#6 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(417): TGM_Plugin_Activation->is_tgmpa_complete()
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): TGM_Plugin_Activation->init('')
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(560): do_action('init')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:41:26+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#6 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php(417): TGM_Plugin_Activation->is_tgmpa_complete()
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): TGM_Plugin_Activation->init('')
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-settings.php(560): do_action('init')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\huyhoangcenter\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\huyhoangcenter\wp-admin\about.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:41:43+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on bool in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php:92
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-updater-controller.php(48): Ai1wm_Updater::update_plugins(false)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(294): Ai1wm_Updater_Controller::update_plugins(false)
+#2 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#3 C:\xampp\htdocs\huyhoangcenter\wp-includes\option.php(1899): apply_filters('site_transient_...', false, 'update_plugins')
+#4 C:\xampp\htdocs\huyhoangcenter\wp-includes\update.php(701): get_site_transient('update_plugins')
+#5 C:\xampp\htdocs\huyhoangcenter\wp-includes\admin-bar.php(1029): wp_get_update_data()
+#6 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): wp_admin_bar_updates_menu(Object(WP_Admin_Bar))
+#7 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\huyhoangcenter\wp-includes\admin-bar.php(95): do_action_ref_array('admin_bar_menu', Array)
+#10 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(292): wp_admin_bar_render('')
+#11 C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#12 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\huyhoangcenter\wp-includes\general-template.php(3041): do_action('wp_body_open')
+#14 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\header.php(16): wp_body_open()
+#15 C:\xampp\htdocs\huyhoangcenter\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\huyhoangcenter\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#17 C:\xampp\htdocs\huyhoangcenter\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#18 C:\xampp\htdocs\huyhoangcenter\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#19 C:\xampp\htdocs\huyhoangcenter\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#20 C:\xampp\htdocs\huyhoangcenter\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#21 C:\xampp\htdocs\huyhoangcenter\index.php(17): require('C:\\xampp\\htdocs...')
+#22 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-content\plugins\all-in-one-wp-migration\lib\model\class-ai1wm-updater.php on line 92
+
+2021-06-09T06:48:37+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "dmin_krq_footer_credit" not found or invalid function name in C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php:292
+Stack trace:
+#0 C:\xampp\htdocs\huyhoangcenter\wp-includes\plugin.php(212): WP_Hook->apply_filters('<span id="foote...', Array)
+#1 C:\xampp\htdocs\huyhoangcenter\wp-admin\admin-footer.php(48): apply_filters('admin_footer_te...', '<span id="foote...')
+#2 C:\xampp\htdocs\huyhoangcenter\wp-admin\about.php(293): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\huyhoangcenter\wp-includes\class-wp-hook.php on line 292
+
